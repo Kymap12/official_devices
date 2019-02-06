@@ -143,4 +143,12 @@
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
         "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-pixysos-v2-4-harpia-unofficial-t3894058"
     }
+    {
+        "name": "Huawei P8 Lite 2017",
+        "brand": "Huawei",
+        "codename": "Hi6250",
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "xda_thread": ""
+    },
 ]
